@@ -32,8 +32,8 @@ namespace testSomeTasks
         static void Main(string[] args)
         {
             ICollection<string> strICollection = new List<string>();
-            strICollection.Add("masha");
-            strICollection.Add("dfgsdfgdfdsfsdfgsdf");
+            strICollection.Add("mashafghjgfhjfg");
+            strICollection.Add("dfgsdfgdfghgjgjdsfsdfgsdf");
             int ICollectionCount = strICollection.Count;
             StringBuilder str = new StringBuilder();
             
